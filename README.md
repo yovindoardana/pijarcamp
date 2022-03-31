@@ -1,18 +1,1 @@
-# CRUD MySQLi Procedural PHP
-Simpel crud dengan mysqli procedural php
-
-## Instalasi
-Buatlah database dengan nama `disty_crud_php_mysqli`, kemudian buka sql dan pastekan kode dibawah ini.
-```sql
-CREATE TABLE `users` (
-  `id` int(11) NOT NULL,
-  `name` varchar(191) NOT NULL,
-  `email` varchar(191) NOT NULL,
-  `password` varchar(191) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-```
-Atau Import Database `disty_crud_php_mysqli.sql`
-
-## Configurasi
-Sesuaikan koneksi ke database pada file `connect.php` di folder `config`
-
+![CRUD - Google Chrome 31_03_2022 13_59_39](https://user-images.githubusercontent.com/98280362/160996947-b2d99a9e-e2bf-4600-8d5a-9d1f39db58a6.png)
